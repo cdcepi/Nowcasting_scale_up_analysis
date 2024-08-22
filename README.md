@@ -8,4 +8,5 @@ All R scripts are in the **Code** folder and figures included in the manuscript 
 
 ### Data sources
 COVID-19 case data are available upon request at https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Restricted-Access-Detai/mbd7-r32t
- Dengue case data for 2010 are available from https://github.com/sarahhbellum/NobBS/blob/master/data/denguedat.RData and dengue case data from 2011-2014 were obtained from the Puerto Rico Department of Health.
+
+Dengue case data for 2010 are available from https://github.com/sarahhbellum/NobBS/blob/master/data/denguedat.RData and dengue case data from 2011-2014 were obtained from the Puerto Rico Department of Health.
