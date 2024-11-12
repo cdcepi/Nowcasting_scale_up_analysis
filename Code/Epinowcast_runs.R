@@ -75,7 +75,7 @@ for(i in 1:length(end_date_choice)){
 
     # # Expectation model [this basically models the epidemic curve]
   expectation_module[[i]] <-enw_expectation(~ 0 + (1 | day),
-                                            latent_reporting_delay = 0.01,
+                                           # latent_reporting_delay = 0.01,
                                             data = dat_proc2[[i]])
   }
 
